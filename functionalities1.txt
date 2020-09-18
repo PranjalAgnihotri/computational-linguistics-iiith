@@ -1,0 +1,18 @@
+Functionality in Unit - 5 
+
+
+
+1. Dropdown Corpus1, Corpus2, Corpus3 is appeared.
+
+2. Corpus data is appear when choose selection.
+
+3. "Enter the number of tokens and types for the above corpus" input fields is appear in the form of table.
+      it takes two data,
+     (i) #tokens  
+    (ii) #types 
+    
+4.submit button			
+
+5.new types
+
+6.red green color in text boxes
