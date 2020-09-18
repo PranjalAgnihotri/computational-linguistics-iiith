@@ -1,0 +1,9 @@
+1. Selection of languages
+2. Selection of a sentence from dropdown
+3. Selection of POS for every word
+4. On submission answer will be verified
+5. If wrong, the 'Get Answer' button appears
+
+Missing functionalities:
+1. In the theory part, table is not viewed properly
+2. In quizzes part, there should be an option to select an answer and it should return the correct answer if wrong 
